@@ -1,5 +1,5 @@
 import axios from "axios"
-const BASE_URL = "52.41.36.82"
+const BASE_URL = "https://project-mern-portal-back-end.onrender.com/"
 
 export default axios.create({
   baseURL: BASE_URL,
